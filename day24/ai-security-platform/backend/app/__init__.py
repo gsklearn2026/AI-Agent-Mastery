@@ -1,2 +1,0 @@
-# AI Security Platform Backend
-
