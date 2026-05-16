@@ -1,4 +1,9 @@
 # AI-Agent-Mastery
+
+>### Special Note: All lesson are accessible at repo - https://github.com/sysdr/AI-Agent-Mastery-p
+>### Upgrade to Paid subscription to access all lessons https://aiamastery.substack.com/subscribe
+
+------------------
 # Hands On AI Agent Mastery
 
 > ### What you will get beyond this?
@@ -6,6 +11,8 @@
 > Current 30 Lessons as per the curriculum.
 
 ---
+
+
 
 Course Link : https://aiamastery.substack.com/p/curriculum
 
