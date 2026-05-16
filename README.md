@@ -1,7 +1,9 @@
 # AI-Agent-Mastery
 
->### Special Note: All lesson are accessible at repo - https://github.com/sysdr/AI-Agent-Mastery-p
->### Upgrade to Paid subscription to access all lessons https://aiamastery.substack.com/subscribe
+>### Special Note:
+>All lesson are accessible at repo - https://github.com/sysdr/AI-Agent-Mastery-p
+>
+>Upgrade to Paid subscription to access all lessons https://aiamastery.substack.com/subscribe
 
 ------------------
 # Hands On AI Agent Mastery
